@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Project Name
-> Hello Microverse project
+>This is to add html and CSS to the hello world project for module one in Microverse
 ## Built With
 - HTML/CSS
 - NPM, Git, Github
